@@ -1,0 +1,8 @@
+{
+  "name": "Bharat Doc Helper",
+  "description": "An AI assistant to help Indian citizens understand complex documents, bills, and paperwork in simple language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
